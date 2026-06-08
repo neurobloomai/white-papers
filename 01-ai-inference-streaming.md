@@ -190,5 +190,5 @@ The entity that claims it — whether a frontier lab, a purpose-built intermedia
 
 ---
 
-*NeuroBloom AI — hello@neurobloom.ai*  
+*NeuroBloom AI — founders@neurobloom.ai*  
 *This paper represents speculative research. Not financial advice.*

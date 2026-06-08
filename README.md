@@ -13,4 +13,4 @@ Research from NeuroBloom AI on multi-agent systems, AI coordination primitives, 
 ---
 
 > These papers represent NeuroBloom's research perspective, not financial advice.  
-> Contact: hello@neurobloom.ai
+> Contact: founders@neurobloom.ai
