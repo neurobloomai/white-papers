@@ -2,6 +2,10 @@
 
 Research from NeuroBloom AI on multi-agent systems, AI coordination primitives, and emerging compute models.
 
+> These papers are not a research program.  
+> They are the map for an engineering and institutional program —  
+> the kind that produces infrastructure rather than papers.
+
 ---
 
 | # | Title | Status |
